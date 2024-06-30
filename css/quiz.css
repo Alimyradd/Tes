@@ -1,14 +1,14 @@
 
 #quizWrap {
-  max-width: 600px;
+  max-width: 700px;
   margin: 0 auto;
 }
 
 #quizQn {
-  padding: 30px;
+  padding: 20px;
   background: #2d583c;
   color: #fff;
-  font-size: 35px;
+  font-size: 45px;
   border-radius: 10px;
 }
 
@@ -24,8 +24,8 @@
   background: #fafafa;
   border: 1px solid #eee;
   border-radius: 10px;
-  padding: 10px;
-  font-size: 30px;
+  padding: 18px;
+  font-size: 45px;
   cursor: pointer;
   text-align: center;
 }
@@ -48,18 +48,20 @@ html, body {
   padding-top: 20px;
   text-align: center;
   color: #f8f7f6;
+  font-size: 50px;
 }
 .opis{
  padding: 50px;
  padding-top: 15px;
  text-align: center;
- color: #060303;
- font-weight:700
+ color: #908d8d;
+ font-weight:700;
+ font-size: 40px;
 }
 .opis2{
-  padding-top: 80px;
+  margin-top: 700px ;
   text-align: center;
-  font-size: 12px;
+  font-size: 18px;
   font-weight:700
 }
 
@@ -68,9 +70,9 @@ a {
 }
  
 .opis3{
-  margin: 150px 235px ;
+  margin: 15px 235px ;
   background-color: #42b00b;
-  font-size: 10px;
+  font-size: 18px;
   color: #eee;
   padding: 15px;
   border-radius: 15px;
